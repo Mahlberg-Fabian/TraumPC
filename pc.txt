@@ -1,2 +1,3 @@
 CPU: Intel I9 12900k
 Grafikkarte: RTX 3080 Ti
+Netzteil: 1000 Watt
