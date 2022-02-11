@@ -1,1 +1,2 @@
 CPU: Intel I9 12900k
+Grafikkarte: RTX 3080 Ti
